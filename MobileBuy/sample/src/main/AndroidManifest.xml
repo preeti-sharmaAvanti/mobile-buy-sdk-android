@@ -44,5 +44,8 @@
         <activity
             android:name=".view.checkout.CheckoutActivity"
             android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".view.cart.CheckOutWebview"
+            android:theme="@style/AppTheme.NoActionBar"/>
     </application>
 </manifest>
